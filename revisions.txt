@@ -1,0 +1,29 @@
+commit 684035cb633c6f4247c7e721c0268590676e98fe
+Author: Evan Prizel <emp4506@cs.rit.edu>
+Date:   Thu Oct 13 21:16:15 2022 -0400
+
+    Fixed "magic numbers"
+
+commit 57ffe14aa8e2972e718aac781c4553884ab5b651
+Author: Evan Prizel <emp4506@cs.rit.edu>
+Date:   Thu Oct 13 20:04:13 2022 -0400
+
+    did all the docstrings for everything and made a 3rd input file for testing something
+
+commit 312e126626aa03f0362524035c3a0353039e5931
+Author: Evan Prizel <emp4506@cs.rit.edu>
+Date:   Thu Oct 13 11:38:35 2022 -0400
+
+    Fixed the issues with error output that try was yelling at me for
+
+commit dfd102bd5dd9832e928609c8aa95f3a91c4817d2
+Author: Evan Prizel <emp4506@cs.rit.edu>
+Date:   Thu Oct 13 11:08:21 2022 -0400
+
+    Finished the project with no documentation yet
+
+commit d60d74e62d3c870f9647c7bf8daea127488505d4
+Author: Evan Prizel <emp4506@cs.rit.edu>
+Date:   Wed Oct 12 18:45:01 2022 -0400
+
+    I basically sat down today and did everything that I could finish in one day, I will try again tomorrow to get the final product done. I have an issue with the scanner, but the transition matrix works perfectly.

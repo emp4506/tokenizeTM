@@ -1,3 +1,6 @@
+This program uses a template transition matrix, or one that you create on your own 
+in order to tokenize and validate input from the user.
+
 These files contain the following things:
 
     tm.1               the sample TM from the assignment writeup
